@@ -23,7 +23,7 @@ The script also has Up/Down or Home/End buttons or Top/Bottom — you can call t
 - Note: Text color changes may not work on sites with strict CSP unless using a userscript manager like Tampermonkey.
 
 – The script is intended for PC versions only and has not been tested on touch devices.
-
+***
 **Описание для пользователей | RUS**
 
 Скрипт отключает ядовитый белый на прекрасный кремовый. Особенно полезно на сайтах с тёмной темой. В скрипте так же есть кнопки Up/down или Home/End или Top/Bottom можете называть это как угодно, суть в том, что это аналог живых клавиш на клавиатуре с функцией Home/End.
