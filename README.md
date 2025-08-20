@@ -20,7 +20,7 @@ The script also has Up/Down or Home/End buttons or Top/Bottom — you can call t
 - If you wish to adjust the buttons’ size, padding, or font-size in the script’s panel, change the values on the six different lines marked "// Button size | Размер кнопки' in the Shadow DOM styles.
   Example: Change 'padding: 5px 3px' to 'padding: 6px 4px' or 'font-size: 13px' to 'font-size: 14px'.
 - If you wish to set a different default position for the buttons when the script’s panel loads, edit lines 249, 250 marked "// Position container at ..."
-- Note: Text color changes may not work on sites with strict CSP unless using a userscript manager like Tampermonkey.
+- The script may not work on sites with strict CSP, although no such cases have been observed so far. If you encounter such a site, please report it to the author.
 
 – The script is intended for PC versions only and has not been tested on touch devices.
 ***
@@ -33,12 +33,13 @@ The script also has Up/Down or Home/End buttons or Top/Bottom — you can call t
 – Кнопка CreamyTXT переключает весь ядовитый белый цвет текста на прекрасный кремовый.
 – Кнопки Up/Down соответствуют клавишам Home/End на клавиатуре - что перемещает vision в окне браузера в самый верх, либо самый низ страницы.
 
-– Если по какой-то причине вы хотите отключить скрипт на конкретном сайте, можно добавить его в список исключений на строчке 33
-– Чтобы изменить прекрасный кремовый цвет на любой другой, который вы захотите, измените '#bbbca6' на строчке 65 с комментарием "// Change beautiful creamy color here | Поменять прекрасный кремовый цвет"
-– Чтобы изменить цвет надписи кнопки "CreamyTXT" на любой другой, который вы захотите, измените строчки 306, 307, 314 с комментарием "// Button text color и т.д….”
-– Задать параметры прозрачности панели (opacity: 0.1) можно в строчках 112, 137, 251, 252, 254, 255
-– Изменить размеры кнопок можно в 6 разых строчках, с комментарием “// Button size и т.д….”
-– Изменить базовое расположение панели в окне браузера можно в строчках 249, 250 с комментарием "// Position container at ..."
+- Если по какой-то причине вы хотите отключить скрипт на конкретном сайте, можно добавить его в список исключений на строчке 33
+- Чтобы изменить прекрасный кремовый цвет на любой другой, который вы захотите, измените '#bbbca6' на строчке 65 с комментарием "// Change beautiful creamy color here | Поменять прекрасный кремовый цвет"
+- Чтобы изменить цвет надписи кнопки "CreamyTXT" на любой другой, который вы захотите, измените строчки 306, 307, 314 с комментарием "// Button text color и т.д….”
+- Задать параметры прозрачности панели (opacity: 0.1) можно в строчках 112, 137, 251, 252, 254, 255
+- Изменить размеры кнопок можно в 6 разых строчках, с комментарием “// Button size и т.д….”
+- Изменить базовое расположение панели в окне браузера можно в строчках 249, 250 с комментарием "// Position container at ..."
+- Скрипт может не заработать на сайтах с жёсткой политикой CSP, но пока таких случаев не наблюдалось. При обнаружении подобного сайта сообщите автору.
 
 – Скрипт исключительно для ПК версий, не тестировался на сенсорных устройствах
 
