@@ -1,6 +1,6 @@
 **Description for users | ENG**
 
-This script changes toxic white text into a soft, beautiful creamy color — especially useful on sites with dark themes.
+This script changes toxic white text into a soft, beautiful creamy color — especially useful on sites with dark themes.<br>
 The script also has Up/Down or Home/End buttons or Top/Bottom — you can call them whatever you want, the point is they work like real keyboard keys with Home/End functionality.
 
 – The panel has a Drag'n'Drop feature for freely moving it around.
@@ -26,7 +26,7 @@ The script also has Up/Down or Home/End buttons or Top/Bottom — you can call t
 ***
 **Описание для пользователей | RUS**
 
-Скрипт отключает ядовитый белый на прекрасный кремовый. Особенно полезно на сайтах с тёмной темой. В скрипте так же есть кнопки Up/down или Home/End или Top/Bottom можете называть это как угодно, суть в том, что это аналог живых клавиш на клавиатуре с функцией Home/End.
+Скрипт отключает ядовитый белый на прекрасный кремовый. Особенно полезно на сайтах с тёмной темой. <br>В скрипте так же есть кнопки Up/down или Home/End или Top/Bottom можете называть это как угодно, суть в том, что это аналог живых клавиш на клавиатуре с функцией Home/End.
 
 – Панель имеет Drag'N'Drop функцию свободного перемещения.
 – Панель имеет высший приоритет отображения над другими элементами сайтов.
@@ -34,7 +34,7 @@ The script also has Up/Down or Home/End buttons or Top/Bottom — you can call t
 – Кнопки Up/Down соответствуют клавишам Home/End на клавиатуре - что перемещает vision в окне браузера в самый верх, либо самый низ страницы.
 
 - Если по какой-то причине вы хотите отключить скрипт на конкретном сайте, можно добавить его в список исключений на строчке 33
-- Чтобы изменить прекрасный кремовый цвет на любой другой, который вы захотите, измените '#bbbca6' на строчке 65 с комментарием "// Change beautiful creamy color here | Поменять прекрасный кремовый цвет"
+- Чтобы изменить прекрасный кремовый цвет на любой другой, который вы захотите, измените '#bbbca6' на строчке 65 с комментарием "// Change beautiful creamy color here | Поменять прекрасный кремовый цвет"
 - Чтобы изменить цвет надписи кнопки "CreamyTXT" на любой другой, который вы захотите, измените строчки 306, 307, 314 с комментарием "// Button text color и т.д….”
 - Задать параметры прозрачности панели (opacity: 0.1) можно в строчках 112, 137, 251, 252, 254, 255
 - Изменить размеры кнопок можно в 6 разых строчках, с комментарием “// Button size и т.д….”
